@@ -174,7 +174,7 @@
             <TextView
                 android:id="@+id/btn_back"
                 style="@style/NumberButton"
-                android:text="9" />
+                android:text="BACK" />
 
             <TextView
                 android:id="@+id/btn_equal"
